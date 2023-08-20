@@ -1,0 +1,7 @@
+#there are different type of functional argumemts in python.
+
+1)positional argumemts
+2)default argumemts
+3)keyword arguments
+4)variable length arguments
+
