@@ -31,4 +31,8 @@ print(id(e1))
 
 #it is used to store in dictonary format when we are using(__dict__)
 print(e1.__dict__)
+
+
+#it is used to give the document information(__doc__)
+print(e1.__doc__)
     
