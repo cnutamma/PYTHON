@@ -4,6 +4,7 @@ def outer():
         print("inner function")
     return inner
 
+#invoking inner function
 x=outer()
 x()   #inner function
 
