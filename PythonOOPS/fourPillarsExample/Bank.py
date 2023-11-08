@@ -1,10 +1,15 @@
-class Bank:
-    def __init__(self,id,name,sal):
-        self.acc_id=id
-        self.acc_name=name
-        self.acc_sal=sal
+from abc import *
+
+class Bank(ABC):
+
+    @abstractmethod
+    def cal_bal(self):
+        pass
 
 
+""" b1 = Bank()
 
-b=Bank(1,'srinivas',60000)
-print(b.__dict__)
+print(b1.__dict__) """
+
+# we dont want create object? - abstract class
+# child class is responsible to provide impl
