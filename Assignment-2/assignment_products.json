@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbb4"
+  },
+  "product_id": 1,
+  "name": "iPhone 9",
+  "price": 549,
+  "brand": "Apple"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbb5"
+  },
+  "product_id": 2,
+  "name": "iPhone X",
+  "price": 899,
+  "brand": "Apple"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbb6"
+  },
+  "product_id": 3,
+  "name": "Samsung Universe 9",
+  "price": 1249,
+  "brand": "Samsung"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbb7"
+  },
+  "product_id": 4,
+  "name": "OPPOF19",
+  "price": 280,
+  "brand": "OPPO"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbb8"
+  },
+  "product_id": 5,
+  "name": "Huawei P30",
+  "price": 499,
+  "brand": "Huawei"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbb9"
+  },
+  "product_id": 6,
+  "name": "MacBook Pro",
+  "price": 1749,
+  "brand": "Apple"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbba"
+  },
+  "product_id": 7,
+  "name": "Samsung Galaxy Book",
+  "price": 1499,
+  "brand": "Samsung"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbbb"
+  },
+  "product_id": 8,
+  "name": "Microsoft Surface Laptop 4",
+  "price": 1499,
+  "brand": "Microsoft Surface"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbbc"
+  },
+  "product_id": 9,
+  "name": "Infinix INBOOK",
+  "price": 1099,
+  "brand": "Infinix"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbbd"
+  },
+  "product_id": 10,
+  "name": "HP Pavilion 15-DK1056WM",
+  "price": 1099,
+  "brand": "HP Pavilion"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbbe"
+  },
+  "product_id": 11,
+  "name": "perfume Oil",
+  "price": 13,
+  "brand": "Impression of Acqua Di Gio"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbbf"
+  },
+  "product_id": 12,
+  "name": "Brown Perfume",
+  "price": 40,
+  "brand": "Royal_Mirage"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc0"
+  },
+  "product_id": 13,
+  "name": "Fog Scent Xpressio Perfume",
+  "price": 13,
+  "brand": "Fog Scent Xpressio"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc1"
+  },
+  "product_id": 14,
+  "name": "Non-Alcoholic Concentrated Perfume Oil",
+  "price": 120,
+  "brand": "Al Munakh"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc2"
+  },
+  "product_id": 15,
+  "name": "Eau De Perfume Spray",
+  "price": 30,
+  "brand": "Lord - Al-Rehab"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc3"
+  },
+  "product_id": 16,
+  "name": "Hyaluronic Acid Serum",
+  "price": 19,
+  "brand": "L'Oreal Paris"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc4"
+  },
+  "product_id": 17,
+  "name": "Tree Oil 30ml",
+  "price": 12,
+  "brand": "Hemani Tea"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc5"
+  },
+  "product_id": 18,
+  "name": "Oil Free Moisturizer 100ml",
+  "price": 40,
+  "brand": "Dermive"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc6"
+  },
+  "product_id": 19,
+  "name": "Skin Beauty Serum.",
+  "price": 46,
+  "brand": "ROREC White Rice"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc7"
+  },
+  "product_id": 20,
+  "name": "Freckle Treatment Cream- 15gm",
+  "price": 70,
+  "brand": "Fair & Clear"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc8"
+  },
+  "product_id": 21,
+  "name": "- Daal Masoor 500 grams",
+  "price": 20,
+  "brand": "Saaf & Khaas"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbc9"
+  },
+  "product_id": 22,
+  "name": "Elbow Macaroni - 400 gm",
+  "price": 14,
+  "brand": "Bake Parlor Big"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbca"
+  },
+  "product_id": 23,
+  "name": "Orange Essence Food Flavou",
+  "price": 14,
+  "brand": "Baking Food Items"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbcb"
+  },
+  "product_id": 24,
+  "name": "cereals muesli fruit nuts",
+  "price": 46,
+  "brand": "fauji"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbcc"
+  },
+  "product_id": 25,
+  "name": "Gulab Powder 50 Gram",
+  "price": 70,
+  "brand": "Dry Rose"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbcd"
+  },
+  "product_id": 26,
+  "name": "Plant Hanger For Home",
+  "price": 41,
+  "brand": "Boho Decor"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbce"
+  },
+  "product_id": 27,
+  "name": "Flying Wooden Bird",
+  "price": 51,
+  "brand": "Flying Wooden"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbcf"
+  },
+  "product_id": 28,
+  "name": "3D Embellishment Art Lamp",
+  "price": 20,
+  "brand": "LED Lights"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbd0"
+  },
+  "product_id": 29,
+  "name": "Handcraft Chinese style",
+  "price": 60,
+  "brand": "luxury palace"
+},
+{
+  "_id": {
+    "$oid": "65570ef72fb3a56df789cbd1"
+  },
+  "product_id": 30,
+  "name": "Key Holder",
+  "price": 30,
+  "brand": "Golden"
+}]

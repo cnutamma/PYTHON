@@ -1,0 +1,182 @@
+[
+  {
+    "pid": 1,
+    "pname": "iPhone 9",
+    "price": 549,
+    "brand": "Apple"
+  },
+  {
+    "pid": 2,
+    "pname": "iPhone X",
+    "price": 899,
+    "brand": "Apple"
+  },
+  {
+    "pid": 3,
+    "pname": "Samsung Universe 9",
+    "price": 1249,
+    "brand": "Samsung"
+  },
+  {
+    "pid": 4,
+    "pname": "OPPOF19",
+    "price": 280,
+    "brand": "OPPO"
+  },
+  {
+    "pid": 5,
+    "pname": "Huawei P30",
+    "price": 499,
+    "brand": "Huawei"
+  },
+  {
+    "pid": 6,
+    "pname": "MacBook Pro",
+    "price": 1749,
+    "brand": "Apple"
+  },
+  {
+    "pid": 7,
+    "pname": "Samsung Galaxy Book",
+    "price": 1499,
+    "brand": "Samsung"
+  },
+  {
+    "pid": 8,
+    "pname": "Microsoft Surface Laptop 4",
+    "price": 1499,
+    "brand": "Microsoft Surface"
+  },
+  {
+    "pid": 9,
+    "pname": "Infinix INBOOK",
+    "price": 1099,
+    "brand": "Infinix"
+  },
+  {
+    "pid": 10,
+    "pname": "HP Pavilion 15-DK1056WM",
+    "price": 1099,
+    "brand": "HP Pavilion"
+  },
+  {
+    "pid": 11,
+    "pname": "perfume Oil",
+    "price": 13,
+    "brand": "Impression of Acqua Di Gio"
+  },
+  {
+    "pid": 12,
+    "pname": "Brown Perfume",
+    "price": 40,
+    "brand": "Royal_Mirage"
+  },
+  {
+    "pid": 13,
+    "pname": "Fog Scent Xpressio Perfume",
+    "price": 13,
+    "brand": "Fog Scent Xpressio"
+  },
+  {
+    "pid": 14,
+    "pname": "Non-Alcoholic Concentrated Perfume Oil",
+    "price": 120,
+    "brand": "Al Munakh"
+  },
+  {
+    "pid": 15,
+    "pname": "Eau De Perfume Spray",
+    "price": 30,
+    "brand": "Lord - Al-Rehab"
+  },
+  {
+    "pid": 16,
+    "pname": "Hyaluronic Acid Serum",
+    "price": 19,
+    "brand": "L'Oreal Paris"
+  },
+  {
+    "pid": 17,
+    "pname": "Tree Oil 30ml",
+    "price": 12,
+    "brand": "Hemani Tea"
+  },
+  {
+    "pid": 18,
+    "pname": "Oil Free Moisturizer 100ml",
+    "price": 40,
+    "brand": "Dermive"
+  },
+  {
+    "pid": 19,
+    "pname": "Skin Beauty Serum.",
+    "price": 46,
+    "brand": "ROREC White Rice"
+  },
+  {
+    "pid": 20,
+    "pname": "Freckle Treatment Cream- 15gm",
+    "price": 70,
+    "brand": "Fair & Clear"
+  },
+  {
+    "pid": 21,
+    "pname": "- Daal Masoor 500 grams",
+    "price": 20,
+    "brand": "Saaf & Khaas"
+  },
+  {
+    "pid": 22,
+    "pname": "Elbow Macaroni - 400 gm",
+    "price": 14,
+    "brand": "Bake Parlor Big"
+  },
+  {
+    "pid": 23,
+    "pname": "Orange Essence Food Flavou",
+    "price": 14,
+    "brand": "Baking Food Items"
+  },
+  {
+    "pid": 24,
+    "pname": "cereals muesli fruit nuts",
+    "price": 46,
+    "brand": "fauji"
+  },
+  {
+    "pid": 25,
+    "pname": "Gulab Powder 50 Gram",
+    "price": 70,
+    "brand": "Dry Rose"
+  },
+  {
+    "pid": 26,
+    "pname": "Plant Hanger For Home",
+    "price": 41,
+    "brand": "Boho Decor"
+  },
+  {
+    "pid": 27,
+    "pname": "Flying Wooden Bird",
+    "price": 51,
+    "brand": "Flying Wooden"
+  },
+  {
+    "pid": 28,
+    "pname": "3D Embellishment Art Lamp",
+    "price": 20,
+    "brand": "LED Lights"
+  },
+  {
+    "pid": 29,
+    "pname": "Handcraft Chinese style",
+    "price": 60,
+    "brand": "luxury palace"
+  },
+  {
+    "pid": 30,
+    "pname": "Key Holder",
+    "price": 30,
+    "brand": "Golden"
+  }
+]
