@@ -22,7 +22,7 @@ try:
 
     dbcursor.executemany(sql_st,male_data)
     db.commit()
-    print("data inserted successfully")
+    print("data inserted successfully in mysql")
 
 except mysql.connector.Error as err:
     print(err)
