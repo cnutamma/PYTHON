@@ -1,0 +1,4 @@
+Alternation ('|'): Acts like an OR operator.
+
+Example: 
+cat|dog matches either "cat" or "dog".

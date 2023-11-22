@@ -1,0 +1,4 @@
+Character Classes ('[ ]'): Matches any one of the characters within the brackets.
+
+Example: 
+The regex '[aeiou]' will match any vowel.

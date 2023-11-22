@@ -1,0 +1,5 @@
+Quantifiers ('{ }','*', '+','?'): Specify the number of occurrences of the preceding element.
+1)'{n}': Exactly n occurrences.
+2)'*': Zero or more occurrences.
+3)'+': One or more occurrences.
+4)'?': Zero or one occurrence.

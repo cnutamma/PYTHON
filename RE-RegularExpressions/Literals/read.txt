@@ -1,0 +1,4 @@
+Literals: Characters that match themselves.
+
+Example:
+ The regex cat will match the string "cat" in the input.

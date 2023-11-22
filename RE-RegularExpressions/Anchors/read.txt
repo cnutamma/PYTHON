@@ -1,0 +1,4 @@
+Anchors ('^', '$'): Specify the start and end of a line, respectively.
+
+1)'^abc': Matches "abc" at the beginning of a line.
+2)'abc$': Matches "abc" at the end of a line.
