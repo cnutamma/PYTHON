@@ -1,5 +1,5 @@
 '''
-Abstraction-Hiding the essential data to the user.It contains any module called abc.
+Abstraction-Hiding the essential data to the user.It contains one module called abc.
 abc modules consists of two types:
 1)@abstractmethod -(decarator)
 2)ABC -(class)

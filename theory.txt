@@ -1,0 +1,13 @@
+List:
+
+create:-
+1)name=[]
+2)name=list() method
+
+read:-using indexing,range of indexes,negative indexing possible.
+ex:srinu=["apple","mango","garpes"]
+   print(srinu[0])-For specific index  
+   print(srinu[:])-It will print start to end of the list.
+   print(srinu[1:2])-The search will start at index 1(included) and end at index 2(not included).
+
+update:
