@@ -18,8 +18,7 @@ print(total)
 #Using lambda function
 
 from functools import reduce
-def addAll(a,b):
-    return(a+b)
+
 total=reduce(lambda a,b:a+b,[99,199,299,399])
 print(total)
 #output:996

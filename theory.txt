@@ -11,3 +11,49 @@ ex:srinu=["apple","mango","garpes"]
    print(srinu[1:2])-The search will start at index 1(included) and end at index 2(not included).
 
 update:
+
+
+
+
+
+
+
+
+
+"""
+List is a collection which is ordered and changeable. Allows duplicate members.
+list methods:
+1)append(add data at the last of the list)
+2)remove(what we want to remove in the list)
+3)pop(index value,if it is empty it will remove last one)
+4)clear(clears all the data from the list)
+5)insert(Adds an element at the specified position)
+6)reverse(Reverses the order of the list)
+7)sort(	Sorts the list)
+
+Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+tuple methods:
+1)count()
+2)index()
+
+Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+set methods:
+1)add()-Adds an element to the set
+2)update()-Update the set with the union of this set and others
+3)union()-update the set with others.
+4)discard()-Remove the specified item,If the element is not there it doesn't raise an error
+5)remove()-Remove the specified iem,If the element is not there it will raises a error.
+
+Dictionary is a collection which is ordered** and changeable. No duplicate members.
+dict methods:
+1)clear()-Removes all the elements from the dictionary
+2)copy()-Returns a copy of the dictionary
+3)fromkeys()-Returns a dictionary with the specified keys and value
+4)get()-Returns the value of the specified key
+5)items()-Returns a list containing a tuple for each key value pair
+6)keys()-Returns a list containing the dictionary's keys
+7)pop()-Removes the element with the specified key
+8)popitem()-Removes the last inserted key-value pair
+9)update()-Updates the dictionary with the specified key-value pairs
+10)values()-Returns a list of all the values in the dictionary
+"""
